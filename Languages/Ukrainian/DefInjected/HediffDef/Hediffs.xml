@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Sensitivity_Dangerous_Hediff.label>небезпечна чутливість УФ</VRE_Sensitivity_Dangerous_Hediff.label>
+  <VRE_Sensitivity_Dangerous_Hediff.description>This is a hidden hediff that modifies the pawn's Sight depending on sunlight.</VRE_Sensitivity_Dangerous_Hediff.description>
+
+  <VRE_ConsumedAnimalHemogen.label>вжито гемоген тварини</VRE_ConsumedAnimalHemogen.label>
+  <VRE_ConsumedAnimalHemogen.description>Animal hemogen increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others.</VRE_ConsumedAnimalHemogen.description>
+
+  <VRE_ConsumedCorpseHemogen.label>вжито трупний гемоген</VRE_ConsumedCorpseHemogen.label>
+  <VRE_ConsumedCorpseHemogen.description>Corpse hemogen greatly weakens the carrier of this hemogen type, but increases consciousness and blood filtration significantly.</VRE_ConsumedCorpseHemogen.description>
+
+  <VRE_ConsumedSanguophageHemogen.label>вжито гемоген кровопивці</VRE_ConsumedSanguophageHemogen.label>
+  <VRE_ConsumedSanguophageHemogen.description>Sanguophage hemogen gives the carrier a powerful boost to all capacities.</VRE_ConsumedSanguophageHemogen.description>
+
+  <VRE_SharpTalons.label>гострі пазурі</VRE_SharpTalons.label>
+  <VRE_SharpTalons.description>Sharp talons which can be used in melee combat.</VRE_SharpTalons.description>
+  <VRE_SharpTalons.comps.0.tools.0.label>talons</VRE_SharpTalons.comps.0.tools.0.label>
+
+  <VRE_DraincasketSickness.label>трупна хвороба</VRE_DraincasketSickness.label>
+  <VRE_DraincasketSickness.description>After-effects of using a draincasket. Symptoms of draincasket sickness typically include localized pain, swelling, and redness at the site of the draincasket tubes' connection. Victims may experience increasing fatigue, weakness, and a general feeling of malaise.</VRE_DraincasketSickness.description>
+
+
+</LanguageData>
