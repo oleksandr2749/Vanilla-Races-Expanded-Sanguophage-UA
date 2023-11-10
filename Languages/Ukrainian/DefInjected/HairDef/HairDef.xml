@@ -1,14 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!--armand-->
   <VRE_SanguineHairArmand.label>арманд</VRE_SanguineHairArmand.label>
+  <!--bianca-->
   <VRE_SanguineHairBianca.label>б'янка</VRE_SanguineHairBianca.label>
+  <!--claude-->
   <VRE_SanguineHairClaude.label>клод</VRE_SanguineHairClaude.label>
+  <!--gabriella-->
   <VRE_SanguineHairGabriella.label>гавриїлла</VRE_SanguineHairGabriella.label>
+  <!--mona-->
   <VRE_SanguineHairMona.label>мона</VRE_SanguineHairMona.label>
+  <!--pandora-->
   <VRE_SanguineHairPandora.label>пандора</VRE_SanguineHairPandora.label>
+  <!--sebastian-->
   <VRE_SanguineHairSebastian.label>севастян</VRE_SanguineHairSebastian.label>
+  <!--seth-->
   <VRE_SanguineHairSeth.label>сиф</VRE_SanguineHairSeth.label>
-
-
 </LanguageData>

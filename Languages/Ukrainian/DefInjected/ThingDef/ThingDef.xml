@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Hemogen-->
+  <VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>Гемоген</VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>
+  <!--hemogen pipe-->
+  <VRE_HemogenPipe.label>гемогенна труба</VRE_HemogenPipe.label>
+  <!--A pipe that’s used to transport hemogen between taps, drains, vats and hemogen-fueled structures.-->
+  <VRE_HemogenPipe.description>A pipe that’s used to transport hemogen between taps, drains, vats and hemogen-fueled structures.</VRE_HemogenPipe.description>
+  <!--subterranean hemogen pipe-->
+  <VRE_UndergroundHemogenPipe.label>підземна труба для гемогену</VRE_UndergroundHemogenPipe.label>
+  <!--Subterranean steel pipes designed to transport hemogen between taps, drains, vats and hemogen-fueled structures.-->
+  <VRE_UndergroundHemogenPipe.description>Subterranean steel pipes designed to transport hemogen between taps, drains, vats and hemogen-fueled structures.</VRE_UndergroundHemogenPipe.description>
+  <!--hemogen valve-->
+  <VRE_HemogenValve.label>гемогенний клапан</VRE_HemogenValve.label>
+  <!--Switches hemogen flow on/off.-->
+  <VRE_HemogenValve.description>Switches hemogen flow on/off.</VRE_HemogenValve.description>
+  <!--hemogen vat-->
+  <VRE_HemogenVat.label>гемогенний бак</VRE_HemogenVat.label>
+  <!--An industrial liquid storage vat meant for storing hemogen delivered via hemogen pipe network. Vats can be designated to be siphoned for usable hemogen as needed.-->
+  <VRE_HemogenVat.description>An industrial liquid storage vat meant for storing hemogen delivered via hemogen pipe network. Vats can be designated to be siphoned for usable hemogen as needed.</VRE_HemogenVat.description>
+  <!--hemogen tap-->
+  <VRE_HemogenTap.label>hemogen tap</VRE_HemogenTap.label>
+  <!--A hopper-like storage basin meant to dispense hemogen for later use.-->
+  <VRE_HemogenTap.description>A hopper-like storage basin meant to dispense hemogen for later use.</VRE_HemogenTap.description>
+  <!--hemogen drain-->
+  <VRE_HemogenDrain.label>hemogen drain</VRE_HemogenDrain.label>
+  <!--A hopper-like storage basin meant to input hemogen into the network, filling up connected vats.-->
+  <VRE_HemogenDrain.description>A hopper-like storage basin meant to input hemogen into the network, filling up connected vats.</VRE_HemogenDrain.description>
+  <!--draincasket-->
+  <VRE_Draincasket.label>труна</VRE_Draincasket.label>
+  <!--A sinister contraption designed to extract hemogen from an individual while maintaining their life force at the barest minimum. This dark and foreboding casket houses its occupant in a twilight state of existence with their body slowly drained of precious hemogen. Bound to their Draincasket, the occupant's survival depends on being fed regularly, as they can still starve to death.\n\nProduces 2 hemogen packs a day as long as the occupant has food and the casket is connected to a hemogen network. If deprived of food, the casket will kill its occupant in around 2 days.\n\nIf you have Vanilla Nutrient Paste Expanded it will draw nutrients from that network, as long as there is more than 1 meal unit available.-->
+  <VRE_Draincasket.description>A sinister contraption designed to extract hemogen from an individual while maintaining their life force at the barest minimum. This dark and foreboding casket houses its occupant in a twilight state of existence with their body slowly drained of precious hemogen. Bound to their Draincasket, the occupant's survival depends on being fed regularly, as they can still starve to death.\n\nProduces 2 hemogen packs a day as long as the occupant has food and the casket is connected to a hemogen network. If deprived of food, the casket will kill its occupant in around 2 days.\n\nIf you have Vanilla Nutrient Paste Expanded it will draw nutrients from that network, as long as there is more than 1 meal unit available.</VRE_Draincasket.description>
+  <!--invocation matrix-->
+  <VRE_InvocationMatrix.label>матриця виклику</VRE_InvocationMatrix.label>
+  <!--A sophisticated device that infuses deathresting people with rare and potent sanguophage abilities, tapping into the very essence of their vampiric nature. Employing a complex system of blood conduits and essence resonators, the matrix connects to a deathrest casket and channels the life force of its occupant to unlock hidden potential within their bloodline. As the person slumbers in their deathrest state, the Invocation Matrix bestows upon them a selected, unique power. This building requires a constant supply of hemogen to operate.-->
+  <VRE_InvocationMatrix.description>A sophisticated device that infuses deathresting people with rare and potent sanguophage abilities, tapping into the very essence of their vampiric nature. Employing a complex system of blood conduits and essence resonators, the matrix connects to a deathrest casket and channels the life force of its occupant to unlock hidden potential within their bloodline. As the person slumbers in their deathrest state, the Invocation Matrix bestows upon them a selected, unique power. This building requires a constant supply of hemogen to operate.</VRE_InvocationMatrix.description>
+  <!--Hemogen-->
+  <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Гемоген</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
+  <!--hemodynamic accelerator-->
+  <VRE_HemodynamicAccelerator.label>гемодинамічний прискорювач</VRE_HemodynamicAccelerator.label>
+  <!--An advanced device designed to expedite the deathrest process at the cost of blood consumption. By connecting with a deathresting person, this apparatus employs intricate blood analysis and potent sanguine stimulants to maximize the efficiency of the deathrest casket. As it hastens the character's recovery, the Hemodynamic Accelerator demands a continuous supply of hemogen to fuel its powerful operation. To function, it must be connected to a deathrest casket, ensuring the swift rejuvenation of its occupant.-->
+  <VRE_HemodynamicAccelerator.description>An advanced device designed to expedite the deathrest process at the cost of blood consumption. By connecting with a deathresting person, this apparatus employs intricate blood analysis and potent sanguine stimulants to maximize the efficiency of the deathrest casket. As it hastens the character's recovery, the Hemodynamic Accelerator demands a continuous supply of hemogen to fuel its powerful operation. To function, it must be connected to a deathrest casket, ensuring the swift rejuvenation of its occupant.</VRE_HemodynamicAccelerator.description>
+  <!--Hemogen-->
+  <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Гемоген</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
+  <!--hemogen solidifier-->
+  <VRE_HemogenSolidifier.label>затверджувач гемогену</VRE_HemogenSolidifier.label>
+  <!--A device specifically engineered to enhance the durability of deathresting characters by manipulating the molecular structure of their skin. Utilizing an array of bioresonant projectors and blood-based nano-agents, the solidifier targets the hemogen within the character's body, fortifying and thickening skin molecules. As the deathresting individual slumbers, the Hemogen Solidifier weaves a dense, protective layer around them, rendering their skin more resilient and damage-resistant. The device must be connected to a deathrest casket to operate, ensuring its occupant emerges from their rest with an augmented defensive capacity.-->
+  <VRE_HemogenSolidifier.description>A device specifically engineered to enhance the durability of deathresting characters by manipulating the molecular structure of their skin. Utilizing an array of bioresonant projectors and blood-based nano-agents, the solidifier targets the hemogen within the character's body, fortifying and thickening skin molecules. As the deathresting individual slumbers, the Hemogen Solidifier weaves a dense, protective layer around them, rendering their skin more resilient and damage-resistant. The device must be connected to a deathrest casket to operate, ensuring its occupant emerges from their rest with an augmented defensive capacity.</VRE_HemogenSolidifier.description>
+  <!--Hemogen-->
+  <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemogen</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
+  <!--small hemogen amplifier-->
+  <VRE_SmallHemogenAmplifier.label>малий підсилювач гемогену</VRE_SmallHemogenAmplifier.label>
+  <!--This device leaves a deathrester in a hemogen-amplified state so they gain slightly more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function.-->
+  <VRE_SmallHemogenAmplifier.description>This device leaves a deathrester in a hemogen-amplified state so they gain slightly more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function.</VRE_SmallHemogenAmplifier.description>
+  <!--Hemogen-->
+  <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Гемоген</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
+  <!--small hemopump-->
+  <VRE_SmallHemopump.label>малий гемонасос</VRE_SmallHemopump.label>
+  <!--This small, blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function.-->
+  <VRE_SmallHemopump.description>This small, blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function. This building needs to consume hemogen to function.</VRE_SmallHemopump.description>
+  <!--Hemogen-->
+  <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Гемоген</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+  <!--hemogen pack (animal)-->
+  <VRE_HemogenPack_Animal.label>пакет для гемогену (тварини)</VRE_HemogenPack_Animal.label>
+  <!--Animal hemogen. Increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others.-->
+  <VRE_HemogenPack_Animal.description>Animal hemogen. Increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others.</VRE_HemogenPack_Animal.description>
+  <!--hemogen pack (corpse)-->
+  <VRE_HemogenPack_Corpse.label>пакет для гемогену (трупний)</VRE_HemogenPack_Corpse.label>
+  <!--Tainted, rotting hemogen from a cadaver. Greatly weakens the carrier of this hemogen type, but increases the blood filtration significantly.-->
+  <VRE_HemogenPack_Corpse.description>Tainted, rotting hemogen from a cadaver. Greatly weakens the carrier of this hemogen type, but increases the blood filtration significantly.</VRE_HemogenPack_Corpse.description>
+  <!--hemogen pack (sanguophage)-->
+  <VRE_HemogenPack_Sanguophage.label>пакет для гемогену (сангвофаг)</VRE_HemogenPack_Sanguophage.label>
+  <!--Pure, thick hemogen of another bloodfeeder. The most rare of all hemogens, it gives the carrier a powerful boost to all capacities.-->
+  <VRE_HemogenPack_Sanguophage.description>Pure, thick hemogen of another bloodfeeder. The most rare of all hemogens, it gives the carrier a powerful boost to all capacities.</VRE_HemogenPack_Sanguophage.description>
+  <!--viscuous goo-->
+  <VRE_FilthGoo.label>в'язка слиз</VRE_FilthGoo.label>
+  <!--goo-->
+  <VRE_Proj_Goo.label>слиз</VRE_Proj_Goo.label>
+</LanguageData>

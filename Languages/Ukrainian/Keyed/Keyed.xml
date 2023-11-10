@@ -1,25 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VRE_Animal>Animal</VRE_Animal>
-  <VRE_Corpse>Corpse</VRE_Corpse>
-  <VRE_Sanguophage>Sanguophage</VRE_Sanguophage>
+  <!--Animal-->
+  <VRE_Animal>Тварина</VRE_Animal>
+  <!--Corpse-->
+  <VRE_Corpse>Труп</VRE_Corpse>
+  <!--Sanguophage-->
+  <VRE_Sanguophage>Сангвофаг</VRE_Sanguophage>
+  <!--Extract hemogen (animal) from {0}-->
   <VRE_ExtractHemogenAnimal>Extract hemogen (animal) from {0}</VRE_ExtractHemogenAnimal>
+  <!--Extract hemogen (corpse) from {0}-->
   <VRE_ExtractHemogenCorpse>Extract hemogen (corpse) from {0}</VRE_ExtractHemogenCorpse>
+  <!--Extract hemogen (sanguophage) from {0}-->
   <VRE_ExtractHemogenSanguophage>Extract hemogen (sanguophage) from {0}</VRE_ExtractHemogenSanguophage>
+  <!--The sanguofeed ability can only be used on hemogenic people-->
   <VRE_MessageCantUseOnNonSanguophage>The sanguofeed ability can only be used on hemogenic people</VRE_MessageCantUseOnNonSanguophage>
+  <!--The sanguofeed ability can't be used on Sanguophages completely drained of hemogen-->
   <VRE_MessageCantUseOnDrainedSanguophage>The sanguofeed ability can't be used on Sanguophages completely drained of hemogen</VRE_MessageCantUseOnDrainedSanguophage>
+  <!--Can only be used on targets with a heart-->
   <VRE_NoHeart>Can only be used on targets with a heart</VRE_NoHeart>
+  <!--Switches hemogen flow on/off.-->
   <VRE_HemogenValve>Switches hemogen flow on/off.</VRE_HemogenValve>
+  <!--Switches hemogen flow on/off. A pawn will come open/close the valve.-->
   <VRE_HemogenValveDesc>Switches hemogen flow on/off. A pawn will come open/close the valve.</VRE_HemogenValveDesc>
+  <!--Ability: {0}-->
   <VRE_Ability>Ability: {0}</VRE_Ability>
+  <!--Choose ability-->
   <VRE_DefaultAbility>Choose ability</VRE_DefaultAbility>
+  <!--Carry {0} to draincasket-->
   <VRE_CarryToDraincasket>Carry {0} to draincasket</VRE_CarryToDraincasket>
+  <!--Enter draincasket-->
   <VRE_EnterDraincasket>Enter draincasket</VRE_EnterDraincasket>
+  <!--Eject occupant-->
   <VRE_CommandDraincasketEject>Eject occupant</VRE_CommandDraincasketEject>
+  <!--Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss.-->
   <VRE_CommandDraincasketEjectDesc>Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss.</VRE_CommandDraincasketEjectDesc>
+  <!--Can't eject occupant, since draincasket is empty-->
   <VRE_CommandDraincasketEjectFailEmpty>Can't eject occupant, since draincasket is empty</VRE_CommandDraincasketEjectFailEmpty>
+  <!--Draincasket hemogen production (per day)-->
   <VRE_DraincasketAmount>Draincasket hemogen production (per day)</VRE_DraincasketAmount>
+  <!--Sets the amount of hemogen packs the draincaskets will produce per day. By default it is 2 hemogen packs per day.-->
   <VRE_DraincasketAmountTooltip>Sets the amount of hemogen packs the draincaskets will produce per day. By default it is 2 hemogen packs per day.</VRE_DraincasketAmountTooltip>
+  <!--Reset-->
   <VRE_Reset>Reset</VRE_Reset>
-
 </LanguageData>

@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!--blood moon-->
   <VRE_BloodMoon.label>кривавий місяць</VRE_BloodMoon.label>
-  <VRE_BloodMoon.letterLabel>Кривавий місяць</VRE_BloodMoon.letterLabel>
-
-
+  <!--Blood Moon-->
+  <VRE_BloodMoon.letterLabel>Кривавий Місяць</VRE_BloodMoon.letterLabel>
 </LanguageData>

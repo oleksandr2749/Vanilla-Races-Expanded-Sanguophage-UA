@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--sanguophage ecstasy-->
+  <VRE_Ecstasy.stages.sanguophage_ecstasy.label>sanguophage ecstasy</VRE_Ecstasy.stages.sanguophage_ecstasy.label>
+  <!--sanguophage ecstasy-->
+  <VRE_EcstasyMood.stages.sanguophage_ecstasy.label>sanguophage ecstasy</VRE_EcstasyMood.stages.sanguophage_ecstasy.label>
+  <!--I can’t believe how I’m feeling, it’s amazing, it’s wonderful!-->
+  <VRE_EcstasyMood.stages.sanguophage_ecstasy.description>I can’t believe how I’m feeling, it’s amazing, it’s wonderful!</VRE_EcstasyMood.stages.sanguophage_ecstasy.description>
+  <!--fed on by other sanguophage-->
+  <VRE_FedOnDiablerie_Social.stages.fed_on_by_other_sanguophage.label>fed on by other sanguophage</VRE_FedOnDiablerie_Social.stages.fed_on_by_other_sanguophage.label>
+  <!--fed on by {0}-->
+  <VRE_FedOn.stages.fed_on_by.label>fed on by {0}</VRE_FedOn.stages.fed_on_by.label>
+  <!--The ultimate crime, I was fed on by another sanguophage!-->
+  <VRE_FedOn.stages.fed_on_by.description>The ultimate crime, I was fed on by another sanguophage!</VRE_FedOn.stages.fed_on_by.description>
+  <!--sunlight sensitivity-->
+  <VRE_SunlightSensitivity_Dangerous.stages.sunlight_sensitivity.label>sunlight sensitivity</VRE_SunlightSensitivity_Dangerous.stages.sunlight_sensitivity.label>
+  <!--I can't even see anything in the light. My whole skin feels like it's going to burst into flames!-->
+  <VRE_SunlightSensitivity_Dangerous.stages.sunlight_sensitivity.description>I can't even see anything in the light. My whole skin feels like it's going to burst into flames!</VRE_SunlightSensitivity_Dangerous.stages.sunlight_sensitivity.description>
+</LanguageData>

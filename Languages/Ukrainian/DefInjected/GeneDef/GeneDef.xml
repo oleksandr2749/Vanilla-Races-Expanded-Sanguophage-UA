@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--ecstasy-->
+  <VRE_Ecstasy.label>ecstasy</VRE_Ecstasy.label>
+  <!--Carriers of this gene can psychically connect with the target briefly, granting them a sense of ecstasy and making them fall in love with the caster.-->
+  <VRE_Ecstasy.description>Carriers of this gene can psychically connect with the target briefly, granting them a sense of ecstasy and making them fall in love with the caster.</VRE_Ecstasy.description>
+  <!--ecstator-->
+  <VRE_Ecstasy.labelShortAdj>ecstator</VRE_Ecstasy.labelShortAdj>
+  <!--ecsta-->
+  <VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>ecsta</VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>
+  <!--sedu-->
+  <VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>sedu</VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>
+  <!--sexy-->
+  <VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>sexy</VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>
+  <!--seducer-->
+  <VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>seducer</VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>
+  <!--ecstator-->
+  <VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>ecstator</VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>
+  <!--pleasurer-->
+  <VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>pleasurer</VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>
+  <!--filter infection-->
+  <VRE_FilterInfection.label>filter infection</VRE_FilterInfection.label>
+  <!--Carriers of this gene have special glands in their mouths that allow them to filter infected blood from the clean blood.-->
+  <VRE_FilterInfection.description>Carriers of this gene have special glands in their mouths that allow them to filter infected blood from the clean blood.</VRE_FilterInfection.description>
+  <!--filtrator-->
+  <VRE_FilterInfection.labelShortAdj>filtrator</VRE_FilterInfection.labelShortAdj>
+  <!--clean-->
+  <VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>clean</VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>
+  <!--sterile-->
+  <VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>sterile</VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>
+  <!--dialys-->
+  <VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>dialys</VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>
+  <!--filtrator-->
+  <VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>filtrator</VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>
+  <!--cleaner-->
+  <VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>cleaner</VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>
+  <!--hemosmosis-->
+  <VRE_Hemosmosis.label>hemosmosis</VRE_Hemosmosis.label>
+  <!--Carriers of this gene are able to drain blood from their environment, provided there is blood to be drained there.-->
+  <VRE_Hemosmosis.description>Carriers of this gene are able to drain blood from their environment, provided there is blood to be drained there.</VRE_Hemosmosis.description>
+  <!--hemosmoser-->
+  <VRE_Hemosmosis.labelShortAdj>hemosmoser</VRE_Hemosmosis.labelShortAdj>
+  <!--sucker-->
+  <VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>sucker</VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>
+  <!--sucker-->
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>sucker</VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>
+  <!--drainer-->
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>drainer</VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>
+  <!--osmoser-->
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>osmoser</VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>
+  <!--toxic cloud-->
+  <VRE_ToxicCloud.label>toxic cloud</VRE_ToxicCloud.label>
+  <!--Carriers of this gene are able to excrete a thick toxic smoke from special organic reservoirs in their lungs. Tox gas is deadly to almost every creature.-->
+  <VRE_ToxicCloud.description>Carriers of this gene are able to excrete a thick toxic smoke from special organic reservoirs in their lungs. Tox gas is deadly to almost every creature.</VRE_ToxicCloud.description>
+  <!--toxspewer-->
+  <VRE_ToxicCloud.labelShortAdj>toxspewer</VRE_ToxicCloud.labelShortAdj>
+  <!--gasser-->
+  <VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>gasser</VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>
+  <!--tox-->
+  <VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>tox</VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>
+  <!--spewer-->
+  <VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>spewer</VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>
+  <!--excretor-->
+  <VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>excretor</VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>
+  <!--heart crush-->
+  <VRE_HeartCrush.label>heart crush</VRE_HeartCrush.label>
+  <!--Carriers of this gene have special adrenaline glands that allow them to find the beating heart of the opponent and rip it out in a mad fury. -->
+  <VRE_HeartCrush.description>Carriers of this gene have special adrenaline glands that allow them to find the beating heart of the opponent and rip it out in a mad fury. </VRE_HeartCrush.description>
+  <!--Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged.-->
+  <VRE_HeartCrush.customEffectDescriptions.0>Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged.</VRE_HeartCrush.customEffectDescriptions.0>
+  <!--heartcrusher-->
+  <VRE_HeartCrush.labelShortAdj>heartcrusher</VRE_HeartCrush.labelShortAdj>
+  <!--ripper-->
+  <VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>ripper</VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>
+  <!--heart-->
+  <VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>heart</VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>
+  <!--bane-->
+  <VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>bane</VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>
+  <!--ripper-->
+  <VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>ripper</VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>
+  <!--crusher-->
+  <VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>crusher</VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>
+  <!--viscuous goo-->
+  <VRE_ViscuousGoo.label>viscuous goo</VRE_ViscuousGoo.label>
+  <!--Carriers grow glands in the neck that generate and store a thick goo. They can spit it over long distances and cover several people in a viscous goo that will slow them down.-->
+  <VRE_ViscuousGoo.description>Carriers grow glands in the neck that generate and store a thick goo. They can spit it over long distances and cover several people in a viscous goo that will slow them down.</VRE_ViscuousGoo.description>
+  <!--goospitter-->
+  <VRE_ViscuousGoo.labelShortAdj>goospitter</VRE_ViscuousGoo.labelShortAdj>
+  <!--spit-->
+  <VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>spit</VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>
+  <!--goo-->
+  <VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>goo</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>
+  <!--spitter-->
+  <VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>spitter</VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>
+  <!--resurrect-->
+  <VRE_Resurrect.label>resurrect</VRE_Resurrect.label>
+  <!--Carriers have a reserve of unique resurrector archites which can infuse a corpse, rebuild degenerated tissue and kickstart the vital processes. This brings the dead back to life - though possibly with health issues. This can only be done very rarely, and comes at a steep hemogen cost.-->
+  <VRE_Resurrect.description>Carriers have a reserve of unique resurrector archites which can infuse a corpse, rebuild degenerated tissue and kickstart the vital processes. This brings the dead back to life - though possibly with health issues. This can only be done very rarely, and comes at a steep hemogen cost.</VRE_Resurrect.description>
+  <!--life-->
+  <VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>life</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
+  <!--resurrector-->
+  <VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>resurrector</VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>
+  <!--sanguine haired-->
+  <VRE_SanguineHair.label>sanguine haired</VRE_SanguineHair.label>
+  <!--Carriers of this gene have their hair naturally styled into elder sanguine hairstyles.-->
+  <VRE_SanguineHair.description>Carriers of this gene have their hair naturally styled into elder sanguine hairstyles.</VRE_SanguineHair.description>
+  <!--bat ears-->
+  <VRE_BatEars.label>bat ears</VRE_BatEars.label>
+  <!--Carriers of this gene have bat-like ears.-->
+  <VRE_BatEars.description>Carriers of this gene have bat-like ears.</VRE_BatEars.description>
+  <!--bat-->
+  <VRE_BatEars.symbolPack.prefixSymbols.0.symbol>bat</VRE_BatEars.symbolPack.prefixSymbols.0.symbol>
+  <!--membrane-->
+  <VRE_BatEars.symbolPack.prefixSymbols.1.symbol>membrane</VRE_BatEars.symbolPack.prefixSymbols.1.symbol>
+  <!--night-->
+  <VRE_BatEars.symbolPack.prefixSymbols.2.symbol>night</VRE_BatEars.symbolPack.prefixSymbols.2.symbol>
+  <!--chiroptera-->
+  <VRE_BatEars.symbolPack.prefixSymbols.3.symbol>chiroptera</VRE_BatEars.symbolPack.prefixSymbols.3.symbol>
+  <!--bat-->
+  <VRE_BatEars.symbolPack.suffixSymbols.0.symbol>bat</VRE_BatEars.symbolPack.suffixSymbols.0.symbol>
+  <!--tragus-->
+  <VRE_BatEars.symbolPack.suffixSymbols.1.symbol>tragus</VRE_BatEars.symbolPack.suffixSymbols.1.symbol>
+  <!--chiropteric ears-->
+  <VRE_UpperBatEars.label>chiropteric ears</VRE_UpperBatEars.label>
+  <!--Carriers of this gene have pointy bat-like ears.-->
+  <VRE_UpperBatEars.description>Carriers of this gene have pointy bat-like ears.</VRE_UpperBatEars.description>
+  <!--bat-->
+  <VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>bat</VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>
+  <!--membrane-->
+  <VRE_UpperBatEars.symbolPack.prefixSymbols.1.symbol>membrane</VRE_UpperBatEars.symbolPack.prefixSymbols.1.symbol>
+  <!--night-->
+  <VRE_UpperBatEars.symbolPack.prefixSymbols.2.symbol>night</VRE_UpperBatEars.symbolPack.prefixSymbols.2.symbol>
+  <!--chiroptera-->
+  <VRE_UpperBatEars.symbolPack.prefixSymbols.3.symbol>chiroptera</VRE_UpperBatEars.symbolPack.prefixSymbols.3.symbol>
+  <!--bat-->
+  <VRE_UpperBatEars.symbolPack.suffixSymbols.0.symbol>bat</VRE_UpperBatEars.symbolPack.suffixSymbols.0.symbol>
+  <!--tragus-->
+  <VRE_UpperBatEars.symbolPack.suffixSymbols.1.symbol>tragus</VRE_UpperBatEars.symbolPack.suffixSymbols.1.symbol>
+  <!--talons-->
+  <VRE_Talons.label>talons</VRE_Talons.label>
+  <!--Carriers of this gene have hands that partially resemble talons. This reduces their ability to manipulate objects, but allows them to perform special attacks in melee combat.-->
+  <VRE_Talons.description>Carriers of this gene have hands that partially resemble talons. This reduces their ability to manipulate objects, but allows them to perform special attacks in melee combat.</VRE_Talons.description>
+  <!--bird-->
+  <VRE_Talons.symbolPack.prefixSymbols.0.symbol>bird</VRE_Talons.symbolPack.prefixSymbols.0.symbol>
+  <!--talon-->
+  <VRE_Talons.symbolPack.prefixSymbols.1.symbol>talon</VRE_Talons.symbolPack.prefixSymbols.1.symbol>
+  <!--claw-->
+  <VRE_Talons.symbolPack.prefixSymbols.2.symbol>claw</VRE_Talons.symbolPack.prefixSymbols.2.symbol>
+  <!--predator-->
+  <VRE_Talons.symbolPack.prefixSymbols.3.symbol>predator</VRE_Talons.symbolPack.prefixSymbols.3.symbol>
+  <!--hook-->
+  <VRE_Talons.symbolPack.prefixSymbols.4.symbol>hook</VRE_Talons.symbolPack.prefixSymbols.4.symbol>
+  <!--talon-->
+  <VRE_Talons.symbolPack.suffixSymbols.0.symbol>talon</VRE_Talons.symbolPack.suffixSymbols.0.symbol>
+  <!--sharp-->
+  <VRE_Talons.symbolPack.suffixSymbols.1.symbol>sharp</VRE_Talons.symbolPack.suffixSymbols.1.symbol>
+  <!--claw-->
+  <VRE_Talons.symbolPack.suffixSymbols.2.symbol>claw</VRE_Talons.symbolPack.suffixSymbols.2.symbol>
+  <!--predator-->
+  <VRE_Talons.symbolPack.suffixSymbols.3.symbol>predator</VRE_Talons.symbolPack.suffixSymbols.3.symbol>
+  <!--talons-->
+  <VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>talons</VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>
+  <!--low hemogen drain-->
+  <VRE_LowHemogenDrain.label>low hemogen drain</VRE_LowHemogenDrain.label>
+  <!--Carriers lose an additional 4 hemogen per day from biological entropy.-->
+  <VRE_LowHemogenDrain.description>Carriers lose an additional 4 hemogen per day from biological entropy.</VRE_LowHemogenDrain.description>
+  <!--draining-->
+  <VRE_LowHemogenDrain.labelShortAdj>draining</VRE_LowHemogenDrain.labelShortAdj>
+  <!--hemogen-->
+  <VRE_LowHemogenDrain.resourceLabel>hemogen</VRE_LowHemogenDrain.resourceLabel>
+  <!--extreme hemogen drain-->
+  <VRE_ExtremeHemogenDrain.label>extreme hemogen drain</VRE_ExtremeHemogenDrain.label>
+  <!--Carriers lose an additional 12 hemogen per day from biological entropy.-->
+  <VRE_ExtremeHemogenDrain.description>Carriers lose an additional 12 hemogen per day from biological entropy.</VRE_ExtremeHemogenDrain.description>
+  <!--very draining-->
+  <VRE_ExtremeHemogenDrain.labelShortAdj>very draining</VRE_ExtremeHemogenDrain.labelShortAdj>
+  <!--hemogen-->
+  <VRE_ExtremeHemogenDrain.resourceLabel>hemogen</VRE_ExtremeHemogenDrain.resourceLabel>
+  <!--bat nose-->
+  <VRE_BatNose.label>bat nose</VRE_BatNose.label>
+  <!--Carriers of this gene have bat-like leaf nose.-->
+  <VRE_BatNose.description>Carriers of this gene have bat-like leaf nose.</VRE_BatNose.description>
+  <!--bat-->
+  <VRE_BatNose.symbolPack.prefixSymbols.0.symbol>bat</VRE_BatNose.symbolPack.prefixSymbols.0.symbol>
+  <!--trident-->
+  <VRE_BatNose.symbolPack.prefixSymbols.1.symbol>trident</VRE_BatNose.symbolPack.prefixSymbols.1.symbol>
+  <!--leaf-->
+  <VRE_BatNose.symbolPack.prefixSymbols.2.symbol>leaf</VRE_BatNose.symbolPack.prefixSymbols.2.symbol>
+  <!--night-->
+  <VRE_BatNose.symbolPack.prefixSymbols.3.symbol>night</VRE_BatNose.symbolPack.prefixSymbols.3.symbol>
+  <!--bat-->
+  <VRE_BatNose.symbolPack.suffixSymbols.0.symbol>bat</VRE_BatNose.symbolPack.suffixSymbols.0.symbol>
+  <!--night-->
+  <VRE_BatNose.symbolPack.suffixSymbols.1.symbol>night</VRE_BatNose.symbolPack.suffixSymbols.1.symbol>
+  <!--animalfeeder-->
+  <VRE_AnimalFeeder.label>animalfeeder</VRE_AnimalFeeder.label>
+  <!--Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood. They can bite any animal, suck the blood, and gain hemogen directly. This can sometimes make the animal attack the gene carrier.-->
+  <VRE_AnimalFeeder.description>Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood. They can bite any animal, suck the blood, and gain hemogen directly. This can sometimes make the animal attack the gene carrier.</VRE_AnimalFeeder.description>
+  <!--hemo-->
+  <VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>hemo</VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>
+  <!--blood-->
+  <VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>blood</VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>
+  <!--vamp-->
+  <VRE_AnimalFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_AnimalFeeder.symbolPack.prefixSymbols.2.symbol>
+  <!--fang-->
+  <VRE_AnimalFeeder.symbolPack.prefixSymbols.3.symbol>fang</VRE_AnimalFeeder.symbolPack.prefixSymbols.3.symbol>
+  <!--fang-->
+  <VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>fang</VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>
+  <!--eater-->
+  <VRE_AnimalFeeder.symbolPack.suffixSymbols.1.symbol>eater</VRE_AnimalFeeder.symbolPack.suffixSymbols.1.symbol>
+  <!--ubus-->
+  <VRE_AnimalFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_AnimalFeeder.symbolPack.suffixSymbols.2.symbol>
+  <!--animalfeeder-->
+  <VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>animalfeeder</VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>
+  <!--corpsefeeder-->
+  <VRE_CorpseFeeder.label>corpsefeeder</VRE_CorpseFeeder.label>
+  <!--Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from cold, rotting blood. They can bite any human corpse, suck the blood, and gain hemogen directly.-->
+  <VRE_CorpseFeeder.description>Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from cold, rotting blood. They can bite any human corpse, suck the blood, and gain hemogen directly.</VRE_CorpseFeeder.description>
+  <!--hemo-->
+  <VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>hemo</VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>
+  <!--blood-->
+  <VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>blood</VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>
+  <!--vamp-->
+  <VRE_CorpseFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_CorpseFeeder.symbolPack.prefixSymbols.2.symbol>
+  <!--fang-->
+  <VRE_CorpseFeeder.symbolPack.prefixSymbols.3.symbol>fang</VRE_CorpseFeeder.symbolPack.prefixSymbols.3.symbol>
+  <!--fang-->
+  <VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>fang</VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>
+  <!--eater-->
+  <VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>eater</VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>
+  <!--ubus-->
+  <VRE_CorpseFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_CorpseFeeder.symbolPack.suffixSymbols.2.symbol>
+  <!--corpsefeeder-->
+  <VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>corpsefeeder</VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>
+  <!--sanguofeeder-->
+  <VRE_SanguoFeeder.label>sanguofeeder</VRE_SanguoFeeder.label>
+  <!--Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood of other sanguophages. They can bite an unresisting sanguophage, suck the blood, and gain hemogen directly.-->
+  <VRE_SanguoFeeder.description>Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood of other sanguophages. They can bite an unresisting sanguophage, suck the blood, and gain hemogen directly.</VRE_SanguoFeeder.description>
+  <!--hemo-->
+  <VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>hemo</VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>
+  <!--blood-->
+  <VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>blood</VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>
+  <!--vamp-->
+  <VRE_SanguoFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_SanguoFeeder.symbolPack.prefixSymbols.2.symbol>
+  <!--fang-->
+  <VRE_SanguoFeeder.symbolPack.prefixSymbols.3.symbol>fang</VRE_SanguoFeeder.symbolPack.prefixSymbols.3.symbol>
+  <!--fang-->
+  <VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>fang</VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>
+  <!--eater-->
+  <VRE_SanguoFeeder.symbolPack.suffixSymbols.1.symbol>eater</VRE_SanguoFeeder.symbolPack.suffixSymbols.1.symbol>
+  <!--ubus-->
+  <VRE_SanguoFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_SanguoFeeder.symbolPack.suffixSymbols.2.symbol>
+  <!--sanguofeeder-->
+  <VRE_SanguoFeeder.symbolPack.wholeNameSymbols.0.symbol>sanguofeeder</VRE_SanguoFeeder.symbolPack.wholeNameSymbols.0.symbol>
+  <!--diablerist-->
+  <VRE_SanguoFeeder.symbolPack.wholeNameSymbols.1.symbol>diablerist</VRE_SanguoFeeder.symbolPack.wholeNameSymbols.1.symbol>
+  <!--dangerous UV sensitivity-->
+  <VRE_Sensitivity_Dangerous.label>dangerous UV sensitivity</VRE_Sensitivity_Dangerous.label>
+  <!--Carriers of this gene have biological compounds in their skin that react dangerously to UV radiation. They are extremely sensitive to sunlight.-->
+  <VRE_Sensitivity_Dangerous.description>Carriers of this gene have biological compounds in their skin that react dangerously to UV radiation. They are extremely sensitive to sunlight.</VRE_Sensitivity_Dangerous.description>
+  <!--Sight capacity capped at 50% during sunlight hours-->
+  <VRE_Sensitivity_Dangerous.customEffectDescriptions.0>Sight capacity capped at 50% during sunlight hours</VRE_Sensitivity_Dangerous.customEffectDescriptions.0>
+  <!--UV-hypersensitive-->
+  <VRE_Sensitivity_Dangerous.labelShortAdj>UV-hypersensitive</VRE_Sensitivity_Dangerous.labelShortAdj>
+  <!--dark-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>dark</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>
+  <!--tunnel-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>tunnel</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>
+  <!--under-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>under</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>
+  <!--cave-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>cave</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>
+  <!--crypt-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>crypt</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>
+  <!--dim-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>dim</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>
+  <!--night-->
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>night</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>
+</LanguageData>

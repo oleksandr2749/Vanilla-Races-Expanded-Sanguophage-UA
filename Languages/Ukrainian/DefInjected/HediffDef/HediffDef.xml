@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--dangerous UV sensitivity-->
+  <VRE_Sensitivity_Dangerous_Hediff.label>dangerous UV sensitivity</VRE_Sensitivity_Dangerous_Hediff.label>
+  <!--This is a hidden hediff that modifies the pawn's Sight depending on sunlight.-->
+  <VRE_Sensitivity_Dangerous_Hediff.description>This is a hidden hediff that modifies the pawn's Sight depending on sunlight.</VRE_Sensitivity_Dangerous_Hediff.description>
+  <!--consumed animal hemogen-->
+  <VRE_ConsumedAnimalHemogen.label>consumed animal hemogen</VRE_ConsumedAnimalHemogen.label>
+  <!--Animal hemogen increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others.-->
+  <VRE_ConsumedAnimalHemogen.description>Animal hemogen increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others.</VRE_ConsumedAnimalHemogen.description>
+  <!--consumed corpse hemogen-->
+  <VRE_ConsumedCorpseHemogen.label>consumed corpse hemogen</VRE_ConsumedCorpseHemogen.label>
+  <!--Corpse hemogen greatly weakens the carrier of this hemogen type, but increases consciousness and blood filtration significantly.-->
+  <VRE_ConsumedCorpseHemogen.description>Corpse hemogen greatly weakens the carrier of this hemogen type, but increases consciousness and blood filtration significantly.</VRE_ConsumedCorpseHemogen.description>
+  <!--consumed sanguophage hemogen-->
+  <VRE_ConsumedSanguophageHemogen.label>consumed sanguophage hemogen</VRE_ConsumedSanguophageHemogen.label>
+  <!--Sanguophage hemogen gives the carrier a powerful boost to all capacities.-->
+  <VRE_ConsumedSanguophageHemogen.description>Sanguophage hemogen gives the carrier a powerful boost to all capacities.</VRE_ConsumedSanguophageHemogen.description>
+  <!--sharp talons-->
+  <VRE_SharpTalons.label>sharp talons</VRE_SharpTalons.label>
+  <!--Sharp talons which can be used in melee combat.-->
+  <VRE_SharpTalons.description>Sharp talons which can be used in melee combat.</VRE_SharpTalons.description>
+  <!--talons-->
+  <VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>talons</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>
+  <!--draincasket sickness-->
+  <VRE_DraincasketSickness.label>draincasket sickness</VRE_DraincasketSickness.label>
+  <!--After-effects of using a draincasket. Symptoms of draincasket sickness typically include localized pain, swelling, and redness at the site of the draincasket tubes' connection. Victims may experience increasing fatigue, weakness, and a general feeling of malaise.-->
+  <VRE_DraincasketSickness.description>After-effects of using a draincasket. Symptoms of draincasket sickness typically include localized pain, swelling, and redness at the site of the draincasket tubes' connection. Victims may experience increasing fatigue, weakness, and a general feeling of malaise.</VRE_DraincasketSickness.description>
+  <!--After-effects of using a draincasket. Victims may experience increasing fatigue, weakness, and a general feeling of malaise.-->
+  <VRE_DraincasketSickness.descriptionShort>After-effects of using a draincasket. Victims may experience increasing fatigue, weakness, and a general feeling of malaise.</VRE_DraincasketSickness.descriptionShort>
+  <!--solidified hemogen-->
+  <VRE_SolidifiedHemogen.label>solidified hemogen</VRE_SolidifiedHemogen.label>
+  <!--Armor is enhanced because this person used a hemogen solidifier while deathresting. This effect lasts until the next deathrest.-->
+  <VRE_SolidifiedHemogen.description>Armor is enhanced because this person used a hemogen solidifier while deathresting. This effect lasts until the next deathrest.</VRE_SolidifiedHemogen.description>
+  <!--Lasts until the next deathrest.-->
+  <VRE_SolidifiedHemogen.extraTooltip>Lasts until the next deathrest.</VRE_SolidifiedHemogen.extraTooltip>
+  <!--hemogen amplified, weak-->
+  <VRE_HemogenAmplifiedWeak.label>hemogen amplified, weak</VRE_HemogenAmplifiedWeak.label>
+  <!--All hemogen gains are multiplied up because this person used a small hemogen amplifier while deathresting. This effect lasts until the next deathrest.-->
+  <VRE_HemogenAmplifiedWeak.description>All hemogen gains are multiplied up because this person used a small hemogen amplifier while deathresting. This effect lasts until the next deathrest.</VRE_HemogenAmplifiedWeak.description>
+  <!--Lasts until the next deathrest.-->
+  <VRE_HemogenAmplifiedWeak.extraTooltip>Lasts until the next deathrest.</VRE_HemogenAmplifiedWeak.extraTooltip>
+</LanguageData>

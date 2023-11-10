@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--blood moon-->
+  <VRE_BloodMoonCondition.label>кривавий місяць</VRE_BloodMoonCondition.label>
+  <!--One of the moons of this planet has orbited into the rimworld’s umbra, making sanguophages go mad with hunger.-->
+  <VRE_BloodMoonCondition.description>One of the moons of this planet has orbited into the rimworld’s umbra, making sanguophages go mad with hunger.</VRE_BloodMoonCondition.description>
+  <!--The blood moon has ended.-->
+  <VRE_BloodMoonCondition.endMessage>Кривавий місяць закінчився.</VRE_BloodMoonCondition.endMessage>
+  <!--One of the moons of this planet has orbited into the rimworld’s umbra, blocking all direct sunlight from illuminating the moon’s surface. This resulted in the moon taking on a crimson color - a phenomena known as the blood moon.\n\nDuring this time, sanguophage mechanites will go into overdrive, driving hemogen-starved bloodfeeders out of their caves. Any bloodfeeder sanguophage with more than half hemogen supply gone will enter the hemohunter mental state. Hemogen will drain significantly quicker during blood moon.-->
+  <VRE_BloodMoonCondition.letterText>One of the moons of this planet has orbited into the rimworld’s umbra, blocking all direct sunlight from illuminating the moon’s surface. This resulted in the moon taking on a crimson color - a phenomena known as the blood moon.\n\nDuring this time, sanguophage mechanites will go into overdrive, driving hemogen-starved bloodfeeders out of their caves. Any bloodfeeder sanguophage with more than half hemogen supply gone will enter the hemohunter mental state. Hemogen will drain significantly quicker during blood moon.</VRE_BloodMoonCondition.letterText>
+</LanguageData>
